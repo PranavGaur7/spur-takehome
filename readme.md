@@ -9,7 +9,7 @@ A full-stack AI support widget built for Spur's Founding Engineer take-home asse
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PranavGaur7/spur-takehome.git
 cd spur-takehome
 ```
 
